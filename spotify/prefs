@@ -1,0 +1,14 @@
+autologin.blob="JKIysAluI0b9Hj6dtq2Q+jjXEeYL0/DLRVfiFiVWgpnBK5P0RyZV2iF64YdMHk3PN/o47uw2ysSEQwIgmhp3AWBjrk7erqhz7WvSkTiuSuBHeVMLmJPrBz5OEbIAZNeONd29rQ9QbQ416OfEG54gOfDrFqwWmx10c31eVEGAt5uBZI0L35WRh17O/MUsPiFc0n+iuKBJVHdfLsNYPw9LpeUAv9AAr7lRvR2i5J5b4yI5BghAdUilYhL9NOct8gs3IDSZ17x3xpJfcuLenFusuQ=="
+autologin.canonical_username="kaneki.assassin"
+autologin.saved_credentials="{\"kaneki.assassin\":[\"kaneki.assassin\",\"JKIysAluI0b9Hj6dtq2Q+jjXEeYL0/DLRVfiFiVWgpnBK5P0RyZV2iF64YdMHk3PN/o47uw2ysSEQwIgmhp3AWBjrk7erqhz7WvSkTiuSuBHeVMLmJPrBz5OEbIAZNeONd29rQ9QbQ416OfEG54gOfDrFqwWmx10c31eVEGAt5uBZI0L35WRh17O/MUsPiFc0n+iuKBJVHdfLsNYPw9LpeUAv9AAr7lRvR2i5J5b4yI5BghAdUilYhL9NOct8gs3IDSZ17x3xpJfcuLenFusuQ==\"]}"
+app.window.state.saved=true
+app.window.position.width=1920
+app.rollback-to-sc=true
+es.send-on-startup=true
+core.clock_delta=0
+autologin.username="kaneki.assassin"
+app.window.position.saved=true
+app.window.position.height=1200
+app.autostart-mode="off"
+storage.last-location="/home/mei/.cache/spotify/Storage"
+app.last-launched-version="1.2.63.394.g126b0d89"
